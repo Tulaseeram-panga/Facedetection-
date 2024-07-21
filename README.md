@@ -56,7 +56,7 @@ Run the executable to start the face detection system. The program will open a w
 
 ## Example Output
 
-![Face Detection Example](example_output.png)
+![Face Detection Example](Screenshots/IMG_20240720_18073476.jpeg)
 
 ## Contributing
 
